@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cep.CEPNET0.000/Desktop/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_detail.xml" value="0.12708575863407062" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/drawable/fletxa_esquerra.xml" value="0.145" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout-large-port/activity_main.xml" value="0.13484672099340317" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_detail.xml" value="0.22" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_item.xml" value="0.12221672439386443" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_item_petit.xml" value="0.67" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/toolbar.xml" value="0.17188264058679706" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/toolbar_back.xml" value="0.22640586797066015" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Vinyetes/app/src/main/res/layout/comic_detail.xml" value="0.1" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Vinyetes/app/src/main/res/layout/fragment_detail.xml" value="0.15" />
+        <entry key="..\:/Users/cep.CEPNET0.000/Documents/GitHub/Vinyetes/app/src/main/res/layout/fragment_list.xml" value="0.24034229828850856" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.166" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/drawable/menu.xml" value="0.166" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/drawable/menu_open.xml" value="0.166" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_detail.xml" value="0.33" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/comic_item.xml" value="0.33" />
+        <entry key="..\:/Users/cep.CEPNET0/GitHub/Cole/Disseny/Styling/Vinyetes/app/src/main/res/layout/toolbar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

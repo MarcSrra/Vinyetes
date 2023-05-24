@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="titol">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="fontFamily">@font/komikah</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="textnormal">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="botosimple">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="imatgelist">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingTop">10dp</item>
+    </style>
+    <style name="cardstyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:elevation">20dp</item>
+    </style>
+    <style name="cardstylpetita" parent="cardstyle">
+        <item name="android:layout_margin">3dp</item>
+    </style>
+    <style name="subtitol" parent="textnormal">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    <style name="textfitxa" parent="textnormal">
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+    <style name="rallagris">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">@color/grey</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+    </style>
+
+</resources>
